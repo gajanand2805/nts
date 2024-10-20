@@ -1,0 +1,997 @@
+{
+  "CustomerQuery": {
+    "en-US": "Customer Query",
+    "ar-SA": "استفسار عميل",
+    "hi-IND": "ग्राहक प्रश्न"
+  },
+  "Status": {
+    "en-US": "Status",
+    "ar-SA": "الحالة",
+    "hi-IND": "स्थिति"
+  },
+  "Invoice": {
+    "en-US": "Invoice",
+    "ar-SA": "فاتورة",
+    "hi-IND": "चालान"
+  },
+  "Balance": {
+    "en-US": "Balance",
+    "ar-SA": "الرصيد",
+    "hi-IND": "शेष राशि"
+  },
+  "Subscription": {
+    "en-US": "Subscription",
+    "ar-SA": "الاشتراك",
+    "hi-IND": "सदस्यता"
+  },
+  "Inactive": {
+    "en-US": "Inactive",
+    "ar-SA": "غير نشط",
+    "hi-IND": "निष्क्रिय"
+  },
+  "LoginwithFacebook": {
+    "en-US": "Login with Facebook",
+    "ar-SA": "تسجيل الدخول عبر Facebook",
+    "hi-IND": "फेसबुक के साथ लॉगिन करें"
+  },
+  "AvailableContacts": {
+    "en-US": "Available Contacts",
+    "ar-SA": "جهات الاتصال المتاحة",
+    "hi-IND": "उपलब्ध संपर्क"
+  },
+  "TotalFeedback": {
+    "en-US": "Total Feedback",
+    "ar-SA": "إجمالي التقييمات",
+    "hi-IND": "कुल प्रतिक्रिया"
+  },
+  "TotalOrders": {
+    "en-US": "Total Orders",
+    "ar-SA": "إجمالي الطلبات",
+    "hi-IND": "कुल ऑर्डर"
+  },
+  "AverageReview": {
+    "en-US": "Average Review",
+    "ar-SA": "متوسط التقييمات",
+    "hi-IND": "औसत समीक्षा"
+  },
+  "FeedbackStatistics": {
+    "en-US": "Feedback Statistics",
+    "ar-SA": "إحصائيات التقييمات",
+    "hi-IND": "प्रतिक्रिया सांख्यिकी"
+  },
+  "Unstatisfied": {
+    "en-US": "Unsatisfied",
+    "ar-SA": "غير راضٍ",
+    "hi-IND": "असंतुष्ट"
+  },
+  "Average": {
+    "en-US": "Average",
+    "ar-SA": "متوسط",
+    "hi-IND": "औसत"
+  },
+  "Revenue": {
+    "en-US": "Revenue",
+    "ar-SA": "الإيرادات",
+    "hi-IND": "राजस्व"
+  },
+  "None_Order": {
+    "en-US": "No Order",
+    "ar-SA": "لا طلب",
+    "hi-IND": "कोई ऑर्डर नहीं"
+  },
+  "Prepaid_Order": {
+    "en-US": "Prepaid Order",
+    "ar-SA": "طلبات مسبقة الدفع",
+    "hi-IND": "पूर्व भुगतान ऑर्डर"
+  },
+  "Postpaid_Order": {
+    "en-US": "Postpaid Order",
+    "ar-SA": "طلبات الدفع الآجل",
+    "hi-IND": "पश्चात भुगतान ऑर्डर"
+  },
+  "Excellent": {
+    "en-US": "Excellent",
+    "ar-SA": "ممتاز",
+    "hi-IND": "उत्कृष्ट"
+  },
+  "CustomerQueries": {
+    "en-US": "Customer Queries",
+    "ar-SA": "استفسارات العملاء",
+    "hi-IND": "ग्राहक प्रश्न"
+  },
+  "ShippingDetailsSent": {
+    "en-US": "Shipping Details Sent",
+    "ar-SA": "تفاصيل الشحن المرسلة",
+    "hi-IND": "शिपिंग विवरण भेजा गया"
+  },
+  "Invoices-Sent": {
+    "en-US": "Invoices Sent",
+    "ar-SA": "الفواتير المرسلة",
+    "hi-IND": "भेजे गए चालान"
+  },
+  "Wallet": {
+    "en-US": "Wallet",
+    "ar-SA": "المحفظة",
+    "hi-IND": "वॉलेट"
+  },
+  "Tokens": {
+    "en-US": "Tokens",
+    "ar-SA": "الرموز",
+    "hi-IND": "टोकन"
+  },
+  "Usage": {
+    "en-US": "Usage",
+    "ar-SA": "استخدام",
+    "hi-IND": "उपयोग"
+  },
+  "ApiUsage": {
+    "en-US": "API Usage",
+    "ar-SA": "استخدام API",
+    "hi-IND": "एपीआई उपयोग"
+  },
+  "alreadyAcc": {
+    "en-US": "Already have an account?",
+    "ar-SA": "هل لديك حساب بالفعل؟",
+    "hi-IND": "क्या आपके पास पहले से एक खाता है?"
+  },
+  "clickLogin": {
+    "en-US": "Click here to login",
+    "ar-SA": "انقر هنا لتسجيل الدخول",
+    "hi-IND": "लॉगिन करने के लिए यहां क्लिक करें"
+  },
+  "dontHave": {
+    "en-US": "Don't have an account yet?",
+    "ar-SA": "لا تملك حسابًا بعد؟",
+    "hi-IND": "क्या अभी तक खाता नहीं है?"
+  },
+  "clickSign": {
+    "en-US": "Click here to sign up",
+    "ar-SA": "اضغط هنا للتسجيل",
+    "hi-IND": "साइन अप करने के लिए यहां क्लिक करें"
+  },
+  "Active": {
+    "en-US": "Active",
+    "ar-SA": "نشيط",
+    "hi-IND": "सक्रिय"
+  },
+  "botOn": {
+    "en-US": "Bot On",
+    "ar-SA": "الروبوت مفعل",
+    "hi-IND": "बॉट चालू"
+  },
+  "botOff": {
+    "en-US": "Bot Off",
+    "ar-SA": "الروبوت معطل",
+    "hi-IND": "बॉट बंद"
+  },
+  "chatbot": {
+    "en-US": "Chatbot",
+    "ar-SA": "روبوت الدردشة",
+    "hi-IND": "चैटबॉट"
+  },
+  "orderLanguageEnglish": {
+    "en-US": "Order Language: English",
+    "ar-SA": "لغة الطلب: الإنجليزية",
+    "hi-IND": "ऑर्डर भाषा: अंग्रेजी"
+  },
+  "orderLanguageArabic": {
+    "en-US": "Order Language: Arabic",
+    "ar-SA": "لغة الطلب: العربية",
+    "hi-IND": "ऑर्डर भाषा: अरबी"
+  },
+  "orderId": {
+    "en-US": "Order Id",
+    "ar-SA": "رقم التعريف الخاص بالطلب",
+    "hi-IND": "ऑर्डर आईडी"
+  },
+  "apiKey": {
+    "en-US": "API Key",
+    "ar-SA": "مفتاح API",
+    "hi-IND": "एपीआई कुंजी"
+  },
+  "createOrderEndpoint": {
+    "en-US": "Create Order Endpoint",
+    "ar-SA": "إنشاء نقطة نهاية الطلب",
+    "hi-IND": "ऑर्डर एंडपॉइंट बनाएं"
+  },
+  "WhatsAppPhoneNumberToReceiveOrderUpdates": {
+    "en-US": "WhatsApp phone number to receive order updates",
+    "ar-SA": "رقم هاتف WhatsApp لتلقي تحديثات الطلب",
+    "hi-IND": "ऑर्डर अपडेट प्राप्त करने के लिए व्हाट्सएप फोन नंबर"
+  },
+  "updateOrderEndpoint": {
+    "en-US": "Update Order Endpoint",
+    "ar-SA": "تحديث نقطة نهاية الطلب",
+    "hi-IND": "ऑर्डर एंडपॉइंट अपडेट करें"
+  },
+  "orderStatus": {
+    "en-US": "Order Status",
+    "ar-SA": "حالة الطلب",
+    "hi-IND": "ऑर्डर की स्थिति"
+  },
+  "generateNewApiKey": {
+    "en-US": "Generate new API key",
+    "ar-SA": "إنشاء مفتاح API جديد",
+    "hi-IND": "नया एपीआई कुंजी उत्पन्न करें"
+  },
+  "customizeOrder": {
+    "en-US": "Customize Order",
+    "ar-SA": "تخصيص الطلب",
+    "hi-IND": "ऑर्डर अनुकूलित करें"
+  },
+  "testOrderApi": {
+    "en-US": "Test Order API",
+    "ar-SA": "اختبار API الطلب",
+    "hi-IND": "ऑर्डर एपीआई का परीक्षण करें"
+  },
+  "testUpdateAPI": {
+    "en-US": "Test Update API",
+    "ar-SA": "اختبار تحديث API",
+    "hi-IND": "अपडेट एपीआई का परीक्षण करें"
+  },
+  "orderInitiated": {
+    "en-US": "Order Initiated",
+    "ar-SA": "طلب جديد",
+    "hi-IND": "ऑर्डर प्रारंभ किया गया"
+  },
+  "orderUpdate": {
+    "en-US": "Order Update",
+    "ar-SA": "تحديث الطلب",
+    "hi-IND": "ऑर्डर अपडेट"
+  },
+  "orderCancelled": {
+    "en-US": "Order Cancelled",
+    "ar-SA": "تم إلغاء الطلب",
+    "hi-IND": "ऑर्डर रद्द किया गया"
+  },
+  "orderDelivered": {
+    "en-US": "Order Delivered",
+    "ar-SA": "تم التسليم",
+    "hi-IND": "ऑर्डर दिया गया"
+  },
+  "updateTemplates": {
+    "ar-SA": "تحديث القوالب",
+    "en-US": "Update Templates",
+    "hi-IND": "टेम्प्लेट अपडेट करें"
+  },
+  "addAgent": {
+    "ar-SA": "أضف موظف",
+    "en-US": "Add Agent",
+    "hi-IND": "एजेंट जोड़ें"
+  },
+  "quickMessages": {
+    "ar-SA": "رسائل سريعة",
+    "en-US": "Quick Messages",
+    "hi-IND": "त्वरित संदेश"
+  },
+  "inspectPhoneNo": {
+    "ar-SA": "فحص رقم الهاتف",
+    "en-US": "Inspect Phone No",
+    "hi-IND": "फ़ोन नंबर का निरीक्षण करें"
+  },
+  "rename": {
+    "ar-SA": "إعادة تسمية",
+    "en-US": "Rename",
+    "hi-IND": "नाम बदलें"
+  },
+  "remove": {
+    "ar-SA": "إزالة",
+    "en-US": "Remove",
+    "hi-IND": "हटाएँ"
+  },
+  "name": {
+    "ar-SA": "اسم",
+    "en-US": "Name",
+    "hi-IND": "नाम"
+  },
+  "cancel": {
+    "ar-SA": "إلغاء",
+    "en-US": "Cancel",
+    "hi-IND": "रद्द करें"
+  },
+  "email": {
+    "ar-SA": "البريد الإلكتروني",
+    "en-US": "Email",
+    "hi-IND": "ईमेल"
+  },
+  "viewProfile": {
+    "ar-SA": "عرض الصفحة الشخصية",
+    "en-US": "View Profile",
+    "hi-IND": "प्रोफ़ाइल देखें"
+  },
+  "completed": {
+    "ar-SA": "تم التنفيذ",
+    "en-US": "Completed",
+    "hi-IND": "पूर्ण"
+  },
+  "completeNow": {
+    "ar-SA": "أكمل الآن",
+    "en-US": "Complete Now",
+    "hi-IND": "अभी पूरा करें"
+  },
+  "onboard": {
+    "ar-SA": "صعد على متنها",
+    "en-US": "Onboard",
+    "hi-IND": "सवार"
+  },
+  "completeProfile": {
+    "ar-SA": "أكمل الملف الشخصي",
+    "en-US": "Complete Profile",
+    "hi-IND": "प्रोफ़ाइल पूरा करें"
+  },
+  "customNumber": {
+    "ar-SA": "رقم مخصص",
+    "en-US": "Custom Number",
+    "hi-IND": "कस्टम नंबर"
+  },
+  "pleaseCompleteYourProfileToUnlockThisFeature": {
+    "ar-SA": "يرجى إكمال ملفك الشخصي لفتح هذه الميزة",
+    "en-US": "Please complete your profile to unlock this feature",
+    "hi-IND": "कृपया इस सुविधा को अनलॉक करने के लिए अपना प्रोफ़ाइल पूरा करें"
+  },
+  "unlockFullAccess": {
+    "ar-SA": "فتح الوصول الكامل",
+    "en-US": "Unlock Full Access",
+    "hi-IND": "पूर्ण पहुँच अनलॉक करें"
+  },
+  "backToDashboard": {
+    "ar-SA": "العودة إلى لوحة القيادة",
+    "en-US": "Back To Dashboard",
+    "hi-IND": "डैशबोर्ड पर वापस जाएँ"
+  },
+  "averageFeedback": {
+    "ar-SA": "متوسط التقييمات",
+    "en-US": "Average Feedback",
+    "hi-IND": "औसत प्रतिक्रिया"
+  },
+  "totalFeedback": {
+    "ar-SA": "إجمالي التقييمات",
+    "en-US": "Total Feedback",
+    "hi-IND": "कुल प्रतिक्रिया"
+  },
+  "totalConversation": {
+    "ar-SA": "إجمالي المحادثات",
+    "en-US": "Total Conversations",
+    "hi-IND": "कुल बातचीत"
+  },
+  "allConversations": {
+    "ar-SA": "جميع المحادثات",
+    "en-US": "All Conversations",
+    "hi-IND": "सभी वार्तालाप"
+  },
+  "showConversation": {
+    "ar-SA": "عرض المحادثات",
+    "en-US": "Show Conversations",
+    "hi-IND": "वार्तालाप दिखाएँ"
+  },
+  "contact": {
+    "ar-SA": "اتصال",
+    "en-US": "Contact",
+    "hi-IND": "संपर्क"
+  },
+  "feedback": {
+    "ar-SA": "ملاحظات",
+    "en-US": "Feedback",
+    "hi-IND": "प्रतिक्रिया"
+  },
+  "date": {
+    "ar-SA": "تاريخ",
+    "en-US": "Date",
+    "hi-IND": "तारीख"
+  },
+  "time": {
+    "ar-SA": "وقت",
+    "en-US": "Time",
+    "hi-IND": "समय"
+  },
+  "updateDetails": {
+    "ar-SA": "تحديث التفاصيل",
+    "en-US": "Update Details",
+    "hi-IND": "अद्यतन विवरण"
+  },
+  "deleteProfile": {
+    "ar-SA": "حذف الملف الشخصي",
+    "en-US": "Delete Profile",
+    "hi-IND": "प्रोफ़ाइल हटाएँ"
+  },
+  "confirmDelete": {
+    "ar-SA": "تأكيد الحذف",
+    "en-US": "Confirm Delete",
+    "hi-IND": "हटाने की पुष्टि करें"
+  },
+  "cancelDelete": {
+    "ar-SA": "إلغاء الحذف",
+    "en-US": "Cancel Delete",
+    "hi-IND": "हटाना रद्द करें"
+  },
+  "enterpassword": {
+    "ar-SA": "أدخل كلمة المرور الخاصة بك للتأكيد",
+    "en-US": "Enter your Password to confirm",
+    "hi-IND": "पुष्टि करने के लिए अपना पासवर्ड दर्ज करें"
+  },
+  "enteragentname": {
+    "ar-SA": "أدخل اسم الموظف",
+    "en-US": "Enter Agent's Name",
+    "hi-IND": "एजेंट का नाम दर्ज करें"
+  },
+  "enteragentemail": {
+    "ar-SA": "أدخل البريد الإلكتروني للموظف",
+    "en-US": "Enter Agent's Email",
+    "hi-IND": "एजेंट का ईमेल दर्ज करें"
+  },
+  "add": {
+    "ar-SA": "إضافة",
+    "en-US": "Add",
+    "hi-IND": "जोड़ें"
+  },
+  "cancel": {
+    "ar-SA": "إلغاء",
+    "en-US": "Cancel",
+    "hi-IND": "रद्द करें"
+  },
+  "submit": {
+    "ar-SA": "إرسال",
+    "en-US": "Submit",
+    "hi-IND": "जमा करें"
+  },
+  "enterphoneno": {
+    "ar-SA": "أدخل رقم الهاتف",
+    "en-US": "Enter Phone Number",
+    "hi-IND": "फोन नंबर दर्ज करें"
+  },
+  "addmore": {
+    "ar-SA": "أضف المزيد",
+    "en-US": "Add More",
+    "hi-IND": "अधिक जोड़ें"
+  },
+  "delete": {
+    "ar-SA": "حذف",
+    "en-US": "Delete",
+    "hi-IND": "हटाएँ"
+  },
+  "key_qm": {
+    "ar-SA": "أدخل مفتاح الرسالة السريعة",
+    "en-US": "Enter the Key for your Quick Message",
+    "hi-IND": "अपने त्वरित संदेश के लिए कुंजी दर्ज करें"
+  },
+  "value_qm": {
+    "ar-SA": "أدخل محتوى الرسالة السريعة",
+    "en-US": "Enter the Value for your Quick Message",
+    "hi-IND": "अपने त्वरित संदेश के लिए मान दर्ज करें"
+  },
+  "agentnewname": {
+    "ar-SA": "أدخل اسم جديد",
+    "en-US": "Enter New Name",
+    "hi-IND": "नया नाम दर्ज करें"
+  },
+  "Home": {
+    "ar-SA": "الرئيسية",
+    "en-US": "Home",
+    "hi-IND": "होम"
+  },
+  "BusinessContact": {
+    "ar-SA": "الاتصال التجاري",
+    "en-US": "Business Contact",
+    "hi-IND": "व्यापार संपर्क"
+  },
+  "Subscription": {
+    "ar-SA": "الاشتراك",
+    "en-US": "Subscription",
+    "hi-IND": "सदस्यता"
+  },
+  "ApiIntegration": {
+    "ar-SA": "تكامل API",
+    "en-US": "API Integration",
+    "hi-IND": "एपीआई एकीकरण"
+  },
+  "Template": {
+    "ar-SA": "قالب",
+    "en-US": "Template",
+    "hi-IND": "टेम्प्लेट"
+  },
+  "Agents": {
+    "ar-SA": "العملاء",
+    "en-US": "Agents",
+    "hi-IND": "एजेंट्स"
+  },
+  "UpdateProfile": {
+    "ar-SA": "تحديث الملف",
+    "en-US": "Update Profile",
+    "hi-IND": "प्रोफ़ाइल अपडेट करें"
+  },
+  "Logout": {
+    "ar-SA": "تسجيل خروج",
+    "en-US": "Logout",
+    "hi-IND": "लॉग आउट"
+  },
+  "ActivateYour": {
+    "en-US": "Activate your account in less than 6 minutes!",
+    "ar-SA": "قم بتفعيل حسابك في أقل من 6 دقائق!",
+    "hi-IND": "6 मिनट से भी कम समय में अपना खाता सक्रिय करें!"
+  },
+  "IntergrateWith": {
+    "en-US": "We have built easy ways to integrate with more than 30 platforms. If needed, we will provide immediate support for your integration.",
+    "ar-SA": "لقد قمنا ببناء طرق سهلة للربط مع أكثر من 30 نظامًا أساسيًا. إذا لزم الأمر، سنقدم دعمًا فوريًا لعملية الربط الخاصة بك.",
+    "hi-IND": "यदि आवश्यक हो तो हमने 30 से अधिक प्लेटफार्मों के साथ एकीकृत करने के आसान तरीके बनाए हैं, हम आपके एकीकरण के लिए तत्काल सहायता प्रदान करेंगे।"
+  },
+  "FastAcc": {
+    "en-US": "Fast account opening:",
+    "ar-SA": "فتح الحساب بشكل سريع:",
+    "hi-IND": "शीघ्र खाता खोलना:"
+  },
+  "DontWorry": {
+    "en-US": "Don't worry about how to set up & manage the service. We focused on making Invobot easy to set up, use, and publish.",
+    "ar-SA": "لا تقلق بشأن كيفية إعداد الخدمة وإدارتها، فنحن نركز على جعل Invobot سهل الإعداد والاستخدام والنشر.",
+    "hi-IND": "सेवा को सेटअप और प्रबंधित करने के तरीके के बारे में चिंता न करें। हमने इनवोबोट को स्थापित करना, उपयोग करना और प्रकाशित करना आसान बनाने पर ध्यान केंद्रित किया है।"
+  },
+  "AgentRatingSystem": {
+    "en-US": "Agent rating system:",
+    "ar-SA": "نظام تقييم موظف الخدمة:",
+    "hi-IND": "एजेंट रेटिंग प्रणाली:"
+  },
+  "HumanOnboarding": {
+    "en-US": "Human Onboarding",
+    "ar-SA": "التدخل البشري",
+    "hi-IND": "मानव ऑनबोर्डिंग"
+  },
+  "PredefinedTemplates": {
+    "en-US": "Predefined templates",
+    "ar-SA": "قوالب محددة مسبقًا",
+    "hi-IND": "पूर्वनिर्धारित टेम्पलेट्स"
+  },
+  "YouWillHave": {
+    "en-US": "You will have detailed feedback from your client on each agent.",
+    "ar-SA": "سيكون لديك ملاحظات وتقييمات مفصلة من عميلك على كل موظف خدمة عملاء.",
+    "hi-IND": "आपको प्रत्येक एजेंट पर अपने ग्राहक से विस्तृत प्रतिक्रिया मिलेगी।"
+  },
+  "YouCan": {
+    "en-US": "You can handle live chats with your clients. As soon as your agent leaves the chat, the bot will automatically restart.",
+    "ar-SA": "يمكنك التعامل مع عملائك عبر الدردشة المباشرة. بمجرد أن يغادر موظف الخدمة الدردشة، سيقوم الروبوت بإعادة التشغيل تلقائيًا.",
+    "hi-IND": "आप अपने ग्राहकों के साथ लाइव चैट संभाल सकते हैं। जैसे ही आपका एजेंट चैट छोड़ता है, बॉट स्वचालित रूप से फिर से शुरू हो जाएगा।"
+  },
+  "UseInvobots": {
+    "en-US": "Use Invobots predefined templates to answer common and repetitive questions.",
+    "ar-SA": "استخدم قوالب Invobots المحددة مسبقًا للإجابة على الأسئلة الشائعة والمتكررة.",
+    "hi-IND": "सामान्य और दोहराए जाने वाले प्रश्नों के उत्तर देने के लिए इनवोबॉट्स पूर्वनिर्धारित टेम्पलेट्स का उपयोग करें।"
+  },
+  "MinimalistEndpoint": {
+    "en-US": "Minimalist endpoint with easy integration with webhooks and standard platforms.",
+    "ar-SA": "نقطة نهاية بسيطة مع تكامل سهل مع Webhooks والأنظمة الأساسية القياسية.",
+    "hi-IND": "वेबहुक और मानक प्लेटफार्मों के साथ आसान एकीकरण के साथ न्यूनतम समापन बिंदु।"
+  },
+  "EasyAPI": {
+    "en-US": "Easy API Integration",
+    "ar-SA": "سهولة ربط API",
+    "hi-IND": "आसान एपीआई एकीकरण"
+  },
+  "Automated": {
+    "en-US": "Automated allocation & channel creation for live agents with customers.",
+    "ar-SA": "الربط الآلي وإنشاء القناة لموظف خدمة العملاء المباشر مع العميل.",
+    "hi-IND": "ग्राहकों के साथ लाइव एजेंट के लिए स्वचालित आवंटन और चैनल निर्माण।"
+  },
+  "CustomerSupport": {
+    "en-US": "Customer Support",
+    "ar-SA": "دعم العملاء",
+    "hi-IND": "ग्राहक सहायता"
+  },
+  "ChatbotCan": {
+    "en-US": "Chatbot can resolve order updates & support queries.",
+    "ar-SA": "يمكن للروبوت الدردشة حل تحديثات الطلب واستفسارات الدعم.",
+    "hi-IND": "चैटबॉट ऑर्डर अपडेट और समर्थन प्रश्नों का समाधान कर सकता है।"
+  },
+  "247Chatbot": {
+    "en-US": "24/7 Chatbot Support",
+    "ar-SA": "دعم فني 24/7",
+    "hi-IND": "24/7 चैटबॉट समर्थन"
+  },
+  "FeedbackDirectly": {
+    "en-US": "Feedback directly through integrated buttons in delivered WhatsApp messages.",
+    "ar-SA": "ردود الفعل مباشرة من خلال الأزرار المتكاملة في رسائل WhatsApp المرسلة.",
+    "hi-IND": "वितरित व्हाट्सएप संदेशों में एकीकृत बटन के माध्यम से सीधे प्रतिक्रिया।"
+  },
+  "FeedbackPipeline": {
+    "en-US": "Feedback Pipeline",
+    "ar-SA": "خط أنابيب التغذية الراجعة",
+    "hi-IND": "फीडबैक पाइपलाइन"
+  },
+  "WithOrder": {
+    "en-US": "With order placed, an automated invoice is also delivered via WhatsApp.",
+    "ar-SA": "مع تقديم الطلب، يتم أيضًا تسليم فاتورة مؤتمتة عبر WhatsApp.",
+    "hi-IND": "ऑर्डर देने के साथ ही स्वचालित चालान भी व्हाट्सएप के माध्यम से वितरित किया जाता है।"
+  },
+  "InvoiceGeneration": {
+    "en-US": "Invoice Generation",
+    "ar-SA": "إنشاء الفاتورة",
+    "hi-IND": "चालान सृजन"
+  },
+  "OrderPlaced": {
+    "en-US": "Order placed & order updates delivered seamlessly through WhatsApp.",
+    "ar-SA": "تم تقديم الطلب وتحديثات الطلب يتم تسليمها بسلاسة عبر WhatsApp.",
+    "hi-IND": "ऑर्डर प्लेस और ऑर्डर अपडेट व्हाट्सएप के माध्यम से निर्बाध रूप से वितरित किए जाते हैं।"
+  },
+  "OrderUpdates": {
+    "en-US": "Order Updates",
+    "ar-SA": "تحديثات الطلب",
+    "hi-IND": "ऑर्डर अपडेट"
+  },
+  "ReachToYour": {
+    "en-US": "Reach your clients easily with Invobot to increase your leads, sales, and customer loyalty.",
+    "ar-SA": "يمكنك الوصول إلى عملائك بسهولة باستخدام Invobot لزيادة العملاء المحتملين والمبيعات وولاء العملاء.",
+    "hi-IND": "इनवोबोट के साथ अपने ग्राहकों तक आसानी से पहुंचें ताकि आप अपनी लीड, बिक्री और ग्राहक वफादारी बढ़ा सकें।"
+  },
+  "GetStaterdEasily": {
+    "en-US": "Get started easily to solve your customer service problems.",
+    "ar-SA": "ابدأ بسهولة لحل مشكلات خدمة العملاء الخاصة بك.",
+    "hi-IND": "अपनी ग्राहक सेवा समस्याओं को हल करने के लिए आसानी से शुरुआत करें।"
+  },
+  "HandlingCustomer": {
+    "en-US": "Handling your customer service performance is easy with Invobots' predefined templates, easy human onboarding, and agent rating system.",
+    "ar-SA": "تعد إدارة أداء خدمة العملاء الخاصة بك سهلة باستخدام قوالب Invobots المحددة مسبقًا، وسهولة إدخال البشر، ونظام تقييم الموظفين.",
+    "hi-IND": "इनवोबॉट्स के पूर्वनिर्धारित टेम्पलेट्स, आसान मानव ऑनबोर्डिंग, और एजेंट रेटिंग सिस्टम के साथ अपने ग्राहक सेवा प्रदर्शन को संभालना आसान है।"
+  },
+  "AnsweringCustomer": {
+    "en-US": "Answering customer queries made easy.",
+    "ar-SA": "أصبح الرد على استفسارات العملاء سهلاً.",
+    "hi-IND": "ग्राहकों के प्रश्नों का उत्तर देना आसान हो गया है।"
+  },
+  "CaptureData": {
+    "en-US": "Capture all your client data and start marketing campaigns based on the provided data.",
+    "ar-SA": "التقط جميع بيانات العملاء وابدأ الحملات التسويقية بناءً على البيانات المقدمة.",
+    "hi-IND": "अपने सभी ग्राहक डेटा को कैप्चर करें और दिए गए डेटा के आधार पर मार्केटिंग अभियान शुरू करें।"
+  },
+  "GenerateLeads": {
+    "en-US": "Generate Leads",
+    "ar-SA": "توليد العملاء المتوقعين",
+    "hi-IND": "संभावनाएं बनाना"
+  },
+  "Customer": {
+    "en-US": "Customers will be able to send you feedback about your products & customer services.",
+    "ar-SA": "سيتمكن العملاء من إرسال تعليقات إليك حول منتجاتك وخدمات العملاء.",
+    "hi-IND": "ग्राहक आपके उत्पादों और ग्राहक सेवाओं के बारे में आपको फीडबैक भेज सकेंगे।"
+  },
+  "Recive": {
+    "en-US": "Receive feedback from customers.",
+    "ar-SA": "تلقي تعليقات من العملاء.",
+    "hi-IND": "ग्राहकों से फीडबैक प्राप्त करें।"
+  },
+  "Reach": {
+    "en-US": "Reach your customers by sending them the latest information and order updates.",
+    "ar-SA": "يمكنك الوصول إلى عملائك عن طريق إرسال أحدث المعلومات وتحديثات الطلبات إليهم.",
+    "hi-IND": "अपने ग्राहकों को नवीनतम जानकारी और ऑर्डर अपडेट भेजकर उन तक पहुंचें।"
+  },
+  "Notify": {
+    "en-US": "Notify your customers.",
+    "ar-SA": "قم بإخطار عملائك.",
+    "hi-IND": "अपने ग्राहकों को सूचित करें।"
+  },
+  "GetStarted": {
+    "en-US": "Get Started",
+    "ar-SA": "ابدأ",
+    "hi-IND": "शुरू हो जाओ"
+  },
+  "GetOmni": {
+    "en-US": "Get an omnichannel chatbot and real-time live chat service with integrated order notifications, link-less feedback pipeline, and automated invoice generation integrated with WhatsApp.",
+    "ar-SA": "احصل على روبوت دردشة متعدد القنوات وخدمة الدردشة الحية في الوقت الفعلي مع إشعارات الطلب المتكاملة، خط أنابيب التعليقات بدون روابط، وإنشاء الفواتير المؤتمتة المتكاملة مع WhatsApp.",
+    "hi-IND": "एक ओमनीचैनल चैटबॉट और रियल-टाइम लाइव-चैट सेवा प्राप्त करें, जिसमें इंटीग्रेटेड ऑर्डर नोटिफिकेशन, लिंक-लेस फीडबैक पाइपलाइन, और व्हाट्सएप के साथ इंटीग्रेटेड ऑटोमेटेड इनवॉइस जेनरेशन शामिल है।"
+  },
+  "Automate": {
+    "en-US": "Automate your eCommerce customer experience pipeline.",
+    "ar-SA": "أتمتة نظام تجربة العملاء في التجارة الإلكترونية.",
+    "hi-IND": "अपनी ईकॉमर्स ग्राहक अनुभव पाइपलाइन को स्वचालित करें।"
+  },
+  "Reset": {
+    "en-US": "Reset Password",
+    "ar-SA": "إعادة تعيين كلمة المرور",
+    "hi-IND": "पासवर्ड रीसेट"
+  },
+  "enterEmRe": {
+    "en-US": "Enter your email to reset your password.",
+    "ar-SA": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك.",
+    "hi-IND": "अपना पासवर्ड रीसेट करने के लिए अपना ईमेल दर्ज करें।"
+  },
+  "welcome": {
+    "en-US": "Welcome to",
+    "ar-SA": "أهلا بك في",
+    "hi-IND": "आपका स्वागत है"
+  },
+  "loginTo": {
+    "en-US": "Log in to your account",
+    "ar-SA": "تسجيل الدخول إلى حسابك",
+    "hi-IND": "अपने अकाउंट में लॉग इन करें"
+  },
+  "login": {
+    "en-US": "Login",
+    "ar-SA": "تسجيل الدخول",
+    "hi-IND": "लॉग इन करें"
+  },
+  "dontHave": {
+    "en-US": "Don't have an account yet?",
+    "ar-SA": "لا تملك حسابًا حتى الآن؟",
+    "hi-IND": "क्या आपका अभी तक खाता नहीं है?"
+  },
+  "forgot": {
+    "en-US": "Forgot Password?",
+    "ar-SA": "هل نسيت كلمة المرور؟",
+    "hi-IND": "पासवर्ड भूल गए?"
+  },
+  "newAccount": {
+    "en-US": "Create a New Account",
+    "ar-SA": "إنشاء حساب جديد",
+    "hi-IND": "एक नया खाता बनाएं"
+  },
+  "signUp": {
+    "en-US": "Sign Up",
+    "ar-SA": "اشترك",
+    "hi-IND": "साइन अप करें"
+  },
+  "alreadyAcc": {
+    "en-US": "Already have an account?",
+    "ar-SA": "هل لديك حساب؟",
+    "hi-IND": "क्या आपके पास पहले से एक खाता है?"
+  },
+  "clickLogin": {
+    "en-US": "Click here to login",
+    "ar-SA": "انقر هنا لتسجيل الدخول",
+    "hi-IND": "लॉग इन करने के लिए यहां क्लिक करें"
+  },
+  "privacypolicy": {
+    "en-US": "Privacy Policy",
+    "ar-SA": "سياسة الخصوصية",
+    "hi-IND": "गोपनीयता नीति"
+  },
+  "refundpolicy": {
+    "en-US": "Refund Policy",
+    "ar-SA": "سياسة الاسترجاع",
+    "hi-IND": "रिफंड नीति"
+  },
+  "tnc": {
+    "en-US": "Terms & Conditions",
+    "ar-SA": "الشروط والأحكام",
+    "hi-IND": "नियम और शर्तें"
+  },
+  "downloadcsv": {
+    "en-US": "Download CSV file",
+    "ar-SA": "قم بتنزيل ملف CSV",
+    "hi-IND": "CSV फ़ाइल डाउनलोड करें"
+  },
+  "feature": {
+    "en-US": "Features",
+    "ar-SA": "الميزات",
+    "hi-IND": "विशेषताएँ"
+  },
+  "suite": {
+    "en-US": "Suite",
+    "ar-SA": "جناح",
+    "hi-IND": "संग्रह"
+  },
+  "pricing": {
+    "en-US": "Pricing",
+    "ar-SA": "التسعير",
+    "hi-IND": "मूल्य निर्धारण"
+  },
+  "supporton": {
+    "en-US": "Support: Active",
+    "ar-SA": "الدعم: نشط",
+    "hi-IND": "समर्थन: सक्रिय"
+  },
+  "supportoff": {
+    "en-US": "Support: Inactive",
+    "ar-SA": "الدعم: غير نشط",
+    "hi-IND": "समर्थन: निष्क्रिय"
+  },
+  "health": {
+    "en-US": "Health",
+    "ar-SA": "الصحة",
+    "hi-IND": "स्वास्थ्य"
+  },
+  "totalAPICalls": {
+    "en-US": "Total API Calls",
+    "ar-SA": "إجمالي مكالمات API",
+    "hi-IND": "कुल एपीआई कॉल"
+  },
+  "successfulAPICalls": {
+    "en-US": "Successful API Calls",
+    "ar-SA": "مكالمات API الناجحة",
+    "hi-IND": "सफल एपीआई कॉल"
+  },
+  "totalAPIErrors": {
+    "en-US": "Total API Errors",
+    "ar-SA": "إجمالي أخطاء API",
+    "hi-IND": "कुल एपीआई त्रुटियाँ"
+  },
+  "allErrors": {
+    "en-US": "All Errors",
+    "ar-SA": "جميع الأخطاء",
+    "hi-IND": "सभी त्रुटियाँ"
+  },
+  "responseCode": {
+    "en-US": "Response Code",
+    "ar-SA": "رمز الاستجابة",
+    "hi-IND": "प्रतिक्रिया कोड"
+  },
+  "description": {
+    "en-US": "Description",
+    "ar-SA": "وصف",
+    "hi-IND": "विवरण"
+  },
+  "SuccessRate": {
+    "en-US": "Success Rate",
+    "ar-SA": "معدل النجاح",
+    "hi-IND": "सफलता दर"
+  },
+  "noAgent": {
+    "en-US": "No Agent Added!",
+    "ar-SA": "لم تتم إضافة أي وكلاء!",
+    "hi-IND": "कोई एजेंट जोड़ा नहीं गया!"
+  },
+  "pdagent": {
+    "en-US": "Please add agents.",
+    "ar-SA": "يرجى إضافة وكلاء.",
+    "hi-IND": "कृपया एजेंट जोड़ें।"
+  },
+  "orders": {
+    "en-US": "Orders",
+    "ar-SA": "الطلبات",
+    "hi-IND": "ऑर्डर"
+  },
+  "AgentNameShort": {
+    "en-US": "Agent name must have at least 3 characters",
+    "ar-SA": "يجب أن يحتوي اسم الوكيل على الأقل 3 أحرف",
+    "hi-IND": "एजेंट के नाम में कम से कम 3 अक्षर होने चाहिए"
+  },
+  "OrderID": {
+    "en-US": "Order ID",
+    "ar-SA": "رقم الطلب",
+    "hi-IND": "ऑर्डर आईडी"
+  },
+  "OrderDate": {
+    "en-US": "Order Date",
+    "ar-SA": "تاريخ الطلب",
+    "hi-IND": "ऑर्डर की तारीख"
+  },
+  "OrderContact": {
+    "en-US": "Contact",
+    "ar-SA": "اتصال",
+    "hi-IND": "संपर्क"
+  },
+  "OrderTotal": {
+    "en-US": "Total",
+    "ar-SA": "المجموع",
+    "hi-IND": "कुल"
+  },
+  "OrderState": {
+    "en-US": "State",
+    "ar-SA": "حالة",
+    "hi-IND": "राज्य"
+  },
+  "OrderLastUpdate": {
+    "en-US": "Last Update",
+    "ar-SA": "آخر تحديث",
+    "hi-IND": "अंतिम अपडेट"
+  },
+  "ViewOrderDetails": {
+    "en-US": "View Order Details",
+    "ar-SA": "عرض تفاصيل الطلب",
+    "hi-IND": "ऑर्डर विवरण देखें"
+  },
+  "OrderItems": {
+    "en-US": "Items",
+    "ar-SA": "العناصر",
+    "hi-IND": "आइटम"
+  },
+  "ShippingAddress": {
+    "en-US": "Shipping Address",
+    "ar-SA": "عنوان الشحن",
+    "hi-IND": "शिपिंग पता"
+  },
+  "BillingAddress": {
+    "en-US": "Billing Address",
+    "ar-SA": "عنوان الفواتير",
+    "hi-IND": "बिलिंग पता"
+  },
+  "Search": {
+    "en-US": "Search",
+    "ar-SA": "بحث",
+    "hi-IND": "खोज"
+  },
+  "Addshort": {
+    "en-US": "Address Line1 must have at least 5 characters",
+    "ar-SA": "يجب أن يحتوي سطر العنوان 1 على الأقل 5 أحرف",
+    "hi-IND": "पता पंक्ति 1 में कम से कम 5 अक्षर होने चाहिए"
+  },
+  "Buisnessshort": {
+    "en-US": "Business name must have at least 3 characters",
+    "ar-SA": "يجب أن يحتوي اسم النشاط التجاري على الأقل 3 أحرف",
+    "hi-IND": "व्यापार के नाम में कम से कम 3 अक्षर होने चाहिए"
+  },
+  "AgentInvite": {
+    "en-US": "Mail sent to the Agent! When the agent approves the request, they will be added.",
+    "ar-SA": "تم إرسال البريد إلى الوكيل! عندما يوافق الوكيل على الطلب، سيتم إضافته.",
+    "hi-IND": "एजेंट को मेल भेजा गया! जब एजेंट अनुरोध को मंजूरी दे देगा, तो उसे जोड़ दिया जाएगा।"
+  },
+  "APIRegenConfirmation": {
+    "en-US": "Are you sure you want to generate a new API key?",
+    "ar-SA": "هل أنت متأكد أنك تريد إنشاء مفتاح API جديد؟",
+    "hi-IND": "क्या आप वाकई एक नई एपीआई कुंजी उत्पन्न करना चाहते हैं?"
+  },
+  "TempUpdated": {
+    "en-US": "Your templates have been updated successfully.",
+    "ar-SA": "تم تحديث القوالب الخاصة بك بنجاح.",
+    "hi-IND": "आपके टेम्प्लेट सफलतापूर्वक अपडेट हो गए हैं।"
+  },
+  "InvalidCred": {
+    "en-US": "Invalid Credentials",
+    "ar-SA": "بيانات اعتماد غير صالحة",
+    "hi-IND": "अवैध क्रेडेंशियल्स"
+  },
+  "WrongPass": {
+    "en-US": "Entered Password Incorrect",
+    "ar-SA": "كلمة المرور المدخلة غير صحيحة",
+    "hi-IND": "दर्ज किया गया पासवर्ड गलत है"
+  },
+  "Quantity": {
+    "en-US": "Quantity",
+    "ar-SA": "الكمية",
+    "hi-IND": "मात्रा"
+  },
+  "Discount": {
+    "en-US": "Discount",
+    "ar-SA": "خصم",
+    "hi-IND": "छूट"
+  },
+  "Tax": {
+    "en-US": "Tax",
+    "ar-SA": "ضريبة",
+    "hi-IND": "कर"
+  },
+  "unitPrice": {
+    "en-US": "Unit Price",
+    "ar-SA": "سعر الوحدة",
+    "hi-IND": "यूनिट मूल्य"
+  },
+  "Currency": {
+    "en-US": "Currency",
+    "ar-SA": "عملة",
+    "hi-IND": "मुद्रा"
+  },
+  "Subtotal": {
+    "en-US": "Subtotal",
+    "ar-SA": "المجموع الفرعي",
+    "hi-IND": "उपयोग"
+  },
+  "Shipping": {
+    "en-US": "Shipping",
+    "ar-SA": "الشحن",
+    "hi-IND": "शिपिंग"
+  },
+  "paymentMethod": {
+    "en-US": "Payment Method",
+    "ar-SA": "طريقة الدفع",
+    "hi-IND": "भुगतान विधि"
+  },
+  "None": {
+    "en-US": "None",
+    "ar-SA": "لا شيء",
+    "hi-IND": "कोई नहीं"
+  },
+  "Prepaid": {
+    "en-US": "Prepaid",
+    "ar-SA": "مدفوع مسبقًا",
+    "hi-IND": "प्रीपेड"
+  },
+  "Postpaid": {
+    "en-US": "Postpaid",
+    "ar-SA": "الدفع لاحقًا",
+    "hi-IND": "पोस्टपेड"
+  },
+  "off": {
+    "en-US": "Off",
+    "ar-SA": "إيقاف",
+    "hi-IND": "बंद"
+  },
+  "on": {
+    "en-US": "On",
+    "ar-SA": "تشغيل",
+    "hi-IND": "चालू"
+  }
+}

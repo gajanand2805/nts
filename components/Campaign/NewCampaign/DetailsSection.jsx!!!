@@ -1,0 +1,98 @@
+import React, { useState } from 'react';
+import CampaignName from './CampaignName';
+import CreateMessage from './CreateMessage';
+import PreviewSend from './PreviewSend';
+import SelectAudience from './SelectAudience';
+import StepIndicator from './StepIndicator';
+import TestCampaign from './TestCampaign';
+
+const steps = [
+    'Campaign Name',
+    'Select Audience',
+    'Create Message',
+    'Test Campaign',
+    'Preview & Send'
+];
+
+const DetailsSection = () => {
+    const [currentStep, setCurrentStep] = useState(0);
+    const [formData, setFormData] = useState({
+        campaignName: '',
+        audience: '',
+        message: '',
+        testResult: ''
+    });
+
+    const [errors, setErrors] = useState({});
+
+    const validateStep = () => {
+        const newErrors = {};
+
+        if (currentStep === 0 && !formData.campaignName) {
+            newErrors.campaignName = 'Campaign Name is required.';
+        }
+
+        setErrors(newErrors);
+        return Object.keys(newErrors).length === 0;
+    };
+
+    const handleNext = () => {
+        if (!validateStep()) {
+            return;
+        }
+        setCurrentStep((prevStep) => Math.min(prevStep + 1, steps.length - 1));
+    };
+
+    const handlePrev = () => {
+        setCurrentStep((prevStep) => Math.max(prevStep - 1, 0));
+    };
+
+    const handleChange = (data) => {
+        setFormData((prevData) => ({ ...prevData, ...data }));
+    };
+
+    const renderStep = () => {
+        switch (currentStep) {
+            case 0:
+                return <CampaignName onChange={handleChange} data={formData} />;
+            case 1:
+                return <SelectAudience onChange={handleChange} data={formData} />;
+            case 2:
+                return <CreateMessage onChange={handleChange} data={formData} />;
+            case 3:
+                return <TestCampaign onChange={handleChange} data={formData} />;
+            case 4:
+                return <PreviewSend data={formData} />;
+            default:
+                return null;
+        }
+    };
+
+    return (
+        <div className="container mx-auto p-6">
+            <StepIndicator steps={steps} currentStep={currentStep} />
+            {renderStep()}
+            {errors.campaignName && (
+                <p className="text-red-500 mt-2">{errors.campaignName}</p>
+            )}
+            <div className="flex justify-between mt-8">
+                {currentStep > 0 && (
+                    <button onClick={handlePrev} className="btn bg-gray-300 text-gray-700 py-2 px-4 rounded">
+                        Previous
+                    </button>
+                )}
+                {currentStep < steps.length - 1 ? (
+                    <button onClick={handleNext} className="btn bg-blue-500 text-white py-2 px-4 rounded">
+                        Next
+                    </button>
+                ) : (
+                    <button className="btn bg-green-500 text-white py-2 px-4 rounded">
+                        Submit
+                    </button>
+                )}
+            </div>
+        </div>
+    );
+};
+
+export default DetailsSection;

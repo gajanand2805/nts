@@ -1,0 +1,7 @@
+{
+  "importCost.fontStyle": "italic",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}

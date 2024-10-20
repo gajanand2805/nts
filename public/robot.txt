@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /invobot.net/
+Disallow: /invobot.9ai.in/

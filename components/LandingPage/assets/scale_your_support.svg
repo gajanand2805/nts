@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110.545" height="91.33" viewBox="0 0 110.545 91.33">
+    <defs>
+        <style>
+            .cls-2{fill:#bedbfc}.cls-3{fill:#166ffe}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_6069" data-name="Group 6069" transform="translate(-643.734 1824.536)">
+        <path id="Path_2537" fill="#e8e9ef" d="M754.252-1777.441q.013 33.71.014 67.421c0 2.8-2.129 4.707-5.109 4.708q-26.05.007-52.1 0h-47.9q-5.434 0-5.425-5.461.008-33.335.023-66.671c.83-.66 1.817-.453 2.747-.453q24.975-.019 49.951-.009 27.526 0 55.051.009c.931.004 1.918-.203 2.748.456z" data-name="Path 2537" transform="translate(0 -27.899)"/>
+        <path id="Path_2538" d="M754.254-1805.339l-49.993.032q-29.576.007-59.152 0c-.45 0-.9-.019-1.35-.029q-.012-6.9-.021-13.81c0-3.5 1.877-5.385 5.361-5.385h99.669c3.691 0 5.517 1.837 5.512 5.535q-.009 6.826-.026 13.657z" class="cls-2" data-name="Path 2538" transform="translate(-.002)"/>
+        <path id="Path_2542" d="M667.675-1804.254c0-2.319 0-2.337 2.9-2.311 2.285.02 1.89-.325 1.894 2.86 0 2.314.348 1.924-2.817 1.933-2.312.008-1.941.272-1.977-2.482z" class="cls-3" data-name="Path 2542" transform="translate(-14.328 -10.753)"/>
+        <path id="Path_2543" d="M694.079-1806.576c2.334 0 2.352 0 2.327 2.885-.02 2.3.337 1.907-2.841 1.912-2.351 0-1.937.335-1.951-2.8-.009-2.34-.261-1.96 2.465-1.997z" class="cls-3" data-name="Path 2543" transform="translate(-28.646 -10.748)"/>
+        <path id="Path_2544" d="M720.356-1804.119c0 2.338 0 2.36-2.885 2.329-2.31-.024-1.9.381-1.913-2.99-.007-2.17-.294-1.794 2.8-1.8 2.328-.009 1.962-.273 1.998 2.461z" class="cls-3" data-name="Path 2544" transform="translate(-42.976 -10.733)"/>
+        <g id="Group_6070" data-name="Group 6070" transform="translate(0 -7)">
+            <rect id="Rectangle_2440" width="60" height="14" class="cls-4" data-name="Rectangle 2440" rx="3" transform="translate(668.734 -1792.536)"/>
+            <path id="Rectangle_2441" d="M0 0H24V4H0z" class="cls-3" data-name="Rectangle 2441" transform="translate(673.734 -1787.536)"/>
+            <rect id="Rectangle_2442" width="4" height="4" class="cls-2" data-name="Rectangle 2442" rx="2" transform="translate(703.734 -1787.536)"/>
+            <rect id="Rectangle_2443" width="4" height="4" class="cls-2" data-name="Rectangle 2443" rx="2" transform="translate(710.734 -1787.536)"/>
+            <rect id="Rectangle_2444" width="7" height="4" class="cls-2" data-name="Rectangle 2444" rx="1" transform="translate(717.734 -1787.536)"/>
+        </g>
+        <g id="Group_6071" data-name="Group 6071" transform="translate(0 10)">
+            <rect id="Rectangle_2440-2" width="60" height="14" class="cls-4" data-name="Rectangle 2440" rx="3" transform="translate(668.734 -1792.536)"/>
+            <path id="Rectangle_2441-2" d="M0 0H24V4H0z" class="cls-3" data-name="Rectangle 2441" transform="translate(673.734 -1787.536)"/>
+            <rect id="Rectangle_2442-2" width="4" height="4" class="cls-2" data-name="Rectangle 2442" rx="2" transform="translate(703.734 -1787.536)"/>
+            <rect id="Rectangle_2443-2" width="4" height="4" class="cls-2" data-name="Rectangle 2443" rx="2" transform="translate(710.734 -1787.536)"/>
+            <rect id="Rectangle_2444-2" width="7" height="4" class="cls-2" data-name="Rectangle 2444" rx="1" transform="translate(717.734 -1787.536)"/>
+        </g>
+        <g id="Group_6072" data-name="Group 6072" transform="translate(0 27)">
+            <rect id="Rectangle_2440-3" width="60" height="14" class="cls-4" data-name="Rectangle 2440" rx="3" transform="translate(668.734 -1792.536)"/>
+            <path id="Rectangle_2441-3" d="M0 0H24V4H0z" class="cls-3" data-name="Rectangle 2441" transform="translate(673.734 -1787.536)"/>
+            <rect id="Rectangle_2442-3" width="4" height="4" class="cls-2" data-name="Rectangle 2442" rx="2" transform="translate(703.734 -1787.536)"/>
+            <rect id="Rectangle_2443-3" width="4" height="4" class="cls-2" data-name="Rectangle 2443" rx="2" transform="translate(710.734 -1787.536)"/>
+            <rect id="Rectangle_2444-3" width="7" height="4" class="cls-2" data-name="Rectangle 2444" rx="1" transform="translate(717.734 -1787.536)"/>
+        </g>
+    </g>
+</svg>

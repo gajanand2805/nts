@@ -1,0 +1,5 @@
+<svg width="30" height="26" viewBox="0 0 70 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect opacity="0.24" width="70" height="66" rx="23" fill="#FFC107"/>
+  <path d="M10 50L35 30L60 50H10Z" fill="#FFC107" stroke="#FFC107" stroke-width="2"/>
+  <path d="M20 40L30 30L40 40L50 30L60 40" stroke="#FFC107" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
